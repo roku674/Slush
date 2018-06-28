@@ -1,0 +1,1 @@
+ZecMiner64.exe -zpool zec.slushpool.com:4444 -zwal userName.h -zpsw x -allpools 3
