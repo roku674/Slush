@@ -6,3 +6,5 @@ create your personalized file by running the java executable CreateBatch.jar
 answer the questions and hit okay.
 your file is now ready
 run the mine(resource).bat ex: mineZEC.bat
+
+if you have anyquestions email Roku674@gmail.com
