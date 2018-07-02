@@ -7,4 +7,4 @@ answer the questions and hit okay.
 your file is now ready
 run the mine(resource).bat ex: mineZEC.bat
 
-if you have anyquestions email Roku674@gmail.com
+if you have anyquestions email Roku674@gmail.com and title the email so I know its a github inquery.
