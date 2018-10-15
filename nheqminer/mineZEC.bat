@@ -1,0 +1,1 @@
+nheqminer.exe -l zec.slushpool.com:4444 -u link30224.droplet1 -t 3
